@@ -6,6 +6,7 @@ function App() {
     <div >
        <HealthCareComponents/>
     </div>
+    //this is the root component
   );
 }
 
